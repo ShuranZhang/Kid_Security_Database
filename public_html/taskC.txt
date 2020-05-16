@@ -1,0 +1,10 @@
+Work Distribution
+Shuran Zhang: Did TaskB and TaskC.
+Ziyi You and Shengyang Wu: Did TaskA and TaskB.
+
+Website Link:
+http://betaweb.csug.rochester.edu/~szhang73/welcome.html
+
+Note:
+Our task c and task d are all on this html. You can view all 5 tables by click
+on first five href links.

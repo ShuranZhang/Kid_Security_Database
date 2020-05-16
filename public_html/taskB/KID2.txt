@@ -1,0 +1,21 @@
+Fname,Lname,ID,Age,Sex,Address,School_ID,District
+Tom,Ford,1,10,M,Main St,11111,A
+Jerry,Lu,2,3,M,Cent St,22222,B
+Amy,Ji,3,4,F,Luke Rd,33333,C
+Anna,Jia,4,7,F,Zed Ave,44444,D
+Bob,Dylan,5,5,M,Sun St,55555,A
+Lily,Singh,6,9,F,Bai Rd,11111,B
+Chloe,Zheng,7,11,F,Lee Rd,22222,C
+Ab,Salazar,8,12,M,Riv Ave,33333,D
+Lucy,Tu,9,5,F,Kid Ave,44444,A
+Cindy,Li,10,6,F,May St,55555,B
+Nick,Zhou,11,6,M,Lan Rd,11111,C
+Jake,White,12,8,M,Wind Rd,22222,D
+Zack,Jones,13,4,M,Sun St,33333,A
+Lisa,Altman,14,7,F,Joe rd,44444,B
+Shuran,Zhang,15,8,F,Latt Rd,55555,C
+Ziyi,You,16,11,F,Fee Rd,11111,D
+Shen,Wu,17,3,M,Gee Ave,22222,A
+Yiyun ,Wang,18,4,F,Mt Hope,33333,B
+Wanyin,Hu,19,5,M,Tree St,44444,C
+Stacey,Zheng,20,2,M,Lake St,55555,D

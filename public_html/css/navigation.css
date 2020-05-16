@@ -1,0 +1,76 @@
+body{
+     background-color: #222259;
+     padding: 20px;
+     margin: 10px;
+     font-family: "Times New Roman", Times, serif;
+}
+.menubar ul{
+      margin: 0;
+      padding-left: 0; 
+      list-style-type: none; 
+      display: flex;
+      justify-content: left;
+      background-color: #2c348a;
+
+}
+
+a{
+       color: white;
+    }
+.menubar a { 
+   display: block;
+   color: white;
+   padding: 5px 10px;
+   text-decoration: none;  
+    }
+.menubar a:hover {  
+    background-color: #4d2600;
+      color: white;
+    }
+.menubar a.is-current {  
+      color: white; 
+      background-color: black;
+}
+@media (max-width: 600px) {
+  .menubar ul, .menubar li { 
+    display: block; 
+/*    float: left;*/
+  }
+ }
+  
+.inner-container{
+  margin:0px auto;
+	 display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 25px;
+}
+.grid-container {
+  display: grid;
+}
+.container2 {
+  min-height: 1200px;
+  max-width: 1200px;
+  margin:0px auto;
+  border: 10px solid #2c348a;
+  padding: 20px;
+  background: url(../images/bg.jpg) 
+  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.banner{
+  width: 95%;
+  font-size: 28px;
+  font-style: italic;
+  text-decoration: none;
+}
+
+
+header, footer,nav,.menu{
+  grid-column: 1 / 4;
+}
+

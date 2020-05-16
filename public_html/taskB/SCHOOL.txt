@@ -1,0 +1,6 @@
+Name,Address,Contact,SchoolIID
+A_School,L St,87452,11111
+B_School,J St,25366,22222
+C_School,I St,53422,33333
+D_School,N St,64432,44444
+E_School,M St,75324,55555
